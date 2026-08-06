@@ -1,0 +1,12 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "budgey",
+    "version": "1.0.0",
+    "description": "Connect any agent to your Budgey budget: see what's left this period, log spending, and manage categories, goals, and recurring bills.",
+    "author": {
+        "name": "Budgey Platforms, LLC",
+        "url": "https://budgeyapp.com"
+    },
+    "homepage": "https://www.budgeyapp.com/developers",
+    "keywords": ["budgeting", "personal-finance", "paycheck", "budgey", "mcp"]
+}
