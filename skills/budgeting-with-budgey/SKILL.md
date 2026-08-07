@@ -21,8 +21,11 @@ and its limits, the active budget, the active period's dates, and any other
 budgets on the account. Do not assume a monthly cycle — period dates come
 from the user's pay schedule.
 
-The server exposes a large tool surface (80+ tools). If you need something
-not described here, look for it by name rather than assuming it's missing.
+The server exposes 82 tools. This skill covers the ones you'll reach for
+most and the judgment calls around them; for the complete inventory grouped
+by task — bank sync, goals, recurring bills, pay schedule, sharing, memory,
+multi-step planning — see [references/TOOLS.md](references/TOOLS.md). If a
+capability isn't described here, check there before assuming it's missing.
 
 ## Core concepts
 
