@@ -4,11 +4,21 @@
     "description": "Connect any agent to your Budgey budget: see what's left this period, log spending, and manage categories, goals, and recurring bills.",
     "author": {
         "name": "Budgey Platforms, LLC",
-        "url": "https://budgeyapp.com"
+        "url": "https://www.budgeyapp.com"
     },
     "repository": "https://github.com/budgey-platforms/budgey-agent-plugin",
     "homepage": "https://www.budgeyapp.com/developers",
     "license": "MIT",
-    "keywords": ["budgey", "budgeyapp"],
-    "domains": ["budgeyapp.com", "www.budgeyapp.com"]
+    "keywords": [
+        "budgey",
+        "budgeyapp"
+    ],
+    "domains": [
+        "budgeyapp.com",
+        "www.budgeyapp.com"
+    ],
+    "mcpServers": ".mcp.json",
+    "skills": [
+        "./skills/budgeting-with-budgey"
+    ]
 }

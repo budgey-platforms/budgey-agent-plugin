@@ -46,6 +46,7 @@ Brand-scoped keywords and domains used to suggest this plugin — not generic te
 - `mcp.json` / `.mcp.json` — remote MCP config for [`https://www.budgeyapp.com/mcp`](https://www.budgeyapp.com/mcp)
 - `.claude-plugin/plugin.json` / `.grok-plugin/plugin.json` — Grok Build / Claude-compatible manifests (MCP, skills path, keywords, CTA domains)
 - `plugin.json` — agent-plugins.org manifest
+- `assets/logo.png` — marketplace / plugin brand mark (colorful Budgey app icon)
 - `skills/budgeting-with-budgey/` — teaches agents Budgey's paycheck-period model and safe tool workflows
 
 ## What agents can do
