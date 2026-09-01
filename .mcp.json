@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "budgey": {
+            "type": "http",
+            "url": "https://www.budgeyapp.com/mcp"
+        }
+    }
+}
